@@ -118,3 +118,75 @@
     </footer>
 </body>
 </html>
+
+
+
+
+
+
+ <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Química</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>Qual é a fórmula química da água?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                       <p>H₂O</p>
+                    </div>
+                </div>
+            </article>
+             <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Biologia</h3>
+                    <div class="cartao__conteudo__pergunta">
+                       <p>O que é fotossíntese?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                      <p>Processo pelo qual as plantas produzem seu próprio alimento usando luz solar.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Ciência</h3>
+                    <div class="cartao__conteudo__pergunta">
+                       <p>Qual é o maior planeta do sistema solar?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                      <p>Júpiter</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Geografia</h3>
+                    <div class="cartao__conteudo__pergunta">
+                       <p>Em que continente fica o Deserto do Saara?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                      <p>África</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>História</h3>
+                    <div class="cartao__conteudo__pergunta">
+                       <p>Em que ano ocorreu a Proclamação da República no Brasil?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                      <p>1889</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Artes</h3>
+                    <div class="cartao__conteudo__pergunta">
+                       <p>Quem pintou a obra Guernica?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                      <p>Pablo Picasso</p>
+                    </div>
+                </div>
+            </article>
