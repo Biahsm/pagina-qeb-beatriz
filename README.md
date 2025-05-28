@@ -58,7 +58,7 @@
             </article>
              <article class="cartao">
                 <div class="cartao__conteudo">
-                    <h3>Biologia</h3>
+                    <h3>Biologia/h3>
                     <div class="cartao__conteudo__pergunta">
                        <p>O que é fotossíntese?</p>
                     </div>
